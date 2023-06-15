@@ -1,5 +1,5 @@
 # Calculator_App
 Basic Calculator Application
 
-##V1.0
+## V1.0
 Basic UI with simple mathematical calculations.
